@@ -43,4 +43,4 @@ Mercari là một hệ thống mua bán trực tuyến, là nơi mọi người 
 
 <br />
 
-#### Link Kaggle: https://www.kaggle.com/c/mercari-price-suggestion-challenges
+#### Link Kaggle: https://www.kaggle.com/c/mercari-price-suggestion-challenge
